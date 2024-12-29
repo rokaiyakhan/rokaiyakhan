@@ -14,7 +14,7 @@
 - **Digital Literacy Survey**: Assessed digital literacy across age groups using Microsoft Teams and Google Forms.
 - **Online Restaurant Working**: A Python-SQL project simulating an online restaurant system.
 - **Cybersecurity Awareness Survey**: Evaluated cybersecurity knowledge among college students.
-- **Top 50 Cryptocurrencies Up-to-Date**: [GitHub Link](#)
+- **Top 50 Cryptocurrencies Up-to-Date**
 
 ---
 
@@ -39,8 +39,7 @@
 - **Phone**: +91 9354505627
 - **Email**: rokaiyakhan2006@gmail.com
 - **LinkedIn**: [Your LinkedIn Profile](#)
-- 
-
+  
 ---
 
 ### 🌱 Fun Facts
